@@ -1,0 +1,4 @@
+Contains Screenshots from the dashboard where you an see various features in the dashboard.
+
+It can be seen if you hover mouse cursor over the key metric it shows the graph for that perticular ke metric which makes it more useful and gives more detailed insites.
+also there are filters tab above from where the filters will get applied according to the need.
